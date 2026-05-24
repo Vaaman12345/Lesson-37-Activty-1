@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.topnav {
+    overflow: hidden;
+    background-color: #333
+}
+
+.topnav a {
+    float: left;
+    color: #1affa3;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ff0000;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: #ffe066;
+    color: black;
+}
+
+.content {
+    background-image: url("galaxy.jpg");
+    height: 300px;
+    text-align:center;
+}
+
+h1 {
+    font-size: 190px;
+    color: white;
+}
