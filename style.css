@@ -1,6 +1,7 @@
 body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
 }
 .topnav {
     overflow: hidden;
@@ -40,4 +41,15 @@ h1 {
     box-shadow: 100px 10px 100px red;
     color: blue;
     text-shadow: 5px 5px 5px red;
+}
+#facts {
+    border: 2px solid rgb(0, 211, 223);
+    color: rgb(255, 0, 0);
+    align-items: center;
+    padding:20px;
+    font-size: 20px
+
+}
+#image {
+    border: 2px solid rgb(223, 0, 0);
 }
