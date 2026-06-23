@@ -80,3 +80,19 @@ svg {
 #a {
     color: rgb(0, 238, 255);
 }
+.content_us {
+    border: 2px solid rgb(0, 211, 223);
+    color: rgb(255, 0, 0);
+    align-items: center;
+    display: flex;
+    padding:20px;
+    font-size: 40px;
+}
+.content_us2 {
+    border: 2px solid rgb(0, 211, 223);
+    color: rgb(255, 0, 0);
+    align-items: center;
+    display: flex;
+    padding:20px;
+    font-size: 40px;
+}
